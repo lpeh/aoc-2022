@@ -1,6 +1,6 @@
-namespace AdventOfCode.Day2;
+namespace AdventOfCode.Day8;
 
-static class Day2
+static class Day8
 {
     public static int Run(string inputPath)
     {
